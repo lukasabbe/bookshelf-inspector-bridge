@@ -1,0 +1,5 @@
+name: BookshelfInspectorBridge
+version: '1.0+1.21'
+main: me.lukasabbe.bookshelfInspectorBridge.BookshelfInspectorBridge
+api-version: '1.21'
+authors: [ Lukasabbe ]
